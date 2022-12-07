@@ -1,0 +1,14 @@
+.footer__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background: var(--main-color);
+}
+.footer__content p {
+    padding: 34px 0;
+    font-size: 16px;
+    line-height: 0.8;
+    letter-spacing: -0.006em;
+    color: var(--white-color);
+}

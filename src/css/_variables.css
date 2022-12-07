@@ -1,0 +1,16 @@
+:root {
+    --main-color:#62D0DF;
+    --secondary-color:#22356F;
+    --light-yellow-color:#b799f7;
+    --yellow-color:#F9B640;
+    --yellow-shadow:#d69421;
+    --yellow-text:#FAB63E;
+    --blue-color:#0052C1;
+    --pink-color:#FFE2DE;
+    --greenLight:#C4E769;
+    --blueDark:#22356F;
+    --purpleLight:#DEE1FF;
+    --purple-color:#8F00FF;
+    --white-color:#fff;
+    --transition:all 0.4s ease-in-out;
+}
